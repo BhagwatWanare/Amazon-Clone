@@ -1,1 +1,3 @@
-# Amazon-Clone
+# Amazon-Project
+
+Author by :- Bhagwat Wanare
